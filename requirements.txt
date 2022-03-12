@@ -1,4 +1,9 @@
-dbt
+dbt-bigquery
+dbt-core
+dbt-extractor
+dbt-postgres
+dbt-redshift
+dbt-snowflake
 pyyaml
 click
 pytest
